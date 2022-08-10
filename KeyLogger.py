@@ -17,10 +17,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-# keyboard.hook(write())
-
-# def write():
-#     file = open("data.txt", "a")
-#     while True:
-#         file.write()
-# we are testing this again.
